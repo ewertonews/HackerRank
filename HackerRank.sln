@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HackerRank", "HackerRank.cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonItem", "CommonItem\CommonItem.csproj", "{6CDA0892-4838-411A-A42D-D80AD211E592}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairOfSocks", "PairOfSocks\PairOfSocks.csproj", "{034CE573-BE43-4521-8B85-D613F5C31C90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6CDA0892-4838-411A-A42D-D80AD211E592}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CDA0892-4838-411A-A42D-D80AD211E592}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CDA0892-4838-411A-A42D-D80AD211E592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034CE573-BE43-4521-8B85-D613F5C31C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034CE573-BE43-4521-8B85-D613F5C31C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034CE573-BE43-4521-8B85-D613F5C31C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034CE573-BE43-4521-8B85-D613F5C31C90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
