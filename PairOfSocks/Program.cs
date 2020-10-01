@@ -19,6 +19,7 @@ namespace PairOfSocks
                 }
                 else
                 {
+                    //can be improved
                     int currentCount = socksCount[ar[i]];
                     currentCount++;
                     socksCount[ar[i]] = currentCount;
