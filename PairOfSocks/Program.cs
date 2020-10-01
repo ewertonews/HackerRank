@@ -34,8 +34,7 @@ namespace PairOfSocks
 
         static void Main(string[] args)
         {
-            int[] socks = new int[] { 10, 20, 20, 10, 10, 30, 50, 10, 20 };
-            SockMerchant(9, socks);
+            int[] socks = new int[] { 10, 20, 20, 10, 10, 30, 50, 10, 20 };           
             Console.WriteLine(SockMerchant(9, socks));
         }
     }
