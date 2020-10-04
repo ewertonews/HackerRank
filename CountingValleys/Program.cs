@@ -11,7 +11,6 @@ namespace CountingValleys
             int letfValley = 0;
             for (int i = 0; i < steps; i++)
             {
-
                 if (path[i] == 'D')
                 {
                     seaLevel--;                  
